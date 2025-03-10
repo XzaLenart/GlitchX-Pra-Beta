@@ -53,7 +53,7 @@ const firebaseConfig = {
   appId: "xxxxxxxxxxxxxxxxxx",
   measurementId: "xxxxxxxxxxxxxxxxxx"
 };
-javascript```
+```
 
 ## License
 **Inglish:**
