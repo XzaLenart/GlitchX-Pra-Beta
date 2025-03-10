@@ -3,7 +3,7 @@
 This repository contains the source code for a simple social media website built using **React Vite**. The website includes basic features such as user authentication, posting, and profile management. Below is an overview of the features and technologies used in this project.
 
 ## Features
-
+**Ing**
 - **Login and Sign Up**: Users can create an account and log in to access the platform.
 - **Home Page**: Displays posts from all users who are logged in.
 - **Profile Page**: Shows user information, their posts, and allows editing profile details such as name and profile icon.
