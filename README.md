@@ -52,7 +52,7 @@ const firebaseConfig = {
   messagingSenderId: "xxxxxxxxxxxxxxxxxx",
   appId: "xxxxxxxxxxxxxxxxxx",
   measurementId: "xxxxxxxxxxxxxxxxxx"
-};
+};```
 
 ## License
 **Inglish:**
