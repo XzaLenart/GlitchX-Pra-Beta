@@ -1,0 +1,6 @@
+{isMenuVisible ? <FaTimes className="text-lg" /> : <FaBars className="text-lg" />}
+
+  //   if (posts.length > 0) {
+  //     fetchProfileAndPosts();
+  //   }
+  // }, [posts, profileData, auth.currentUser?.uid]);
