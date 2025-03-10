@@ -36,6 +36,23 @@ Fitur-fitur ini belum diimplementasikan, tetapi mungkin akan ditambahkan di masa
 - **Backend**: Firebase (Authentication, Firestore Database) -> https://firebase.google.com/
 - **Styling**: Tailwind Css -> https://tailwindcss.com/
 
+##Customization
+**Inglish:**
+You need to customize your firebase configuration in firebase.js according to your firebase API.
+
+**Indonesian:**
+Anda perlu menyesuaikan konfigurasi firebase Anda di firebase.js sesuai dengan API firebase Anda.
+
+const firebaseConfig = {
+  apiKey: "xxxxxxxxxxxxxxxxxx",
+  authDomain: "xxxxxxxxxxxxxxxxxx",
+  projectId: "xxxxxxxxxxxxxxxxxx",
+  storageBucket: "xxxxxxxxxxxxxxxxxx",
+  messagingSenderId: "xxxxxxxxxxxxxxxxxx",
+  appId: "xxxxxxxxxxxxxxxxxx",
+  measurementId: "xxxxxxxxxxxxxxxxxx"
+};
+
 ## License
 **Inglish:**
 This source code can be developed as you wish and is also open source.
