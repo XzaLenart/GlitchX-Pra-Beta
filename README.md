@@ -1,5 +1,5 @@
 # GlitchX-Pra-Beta
-**Inglish**
+**Inglish:\n**
 This repository contains the source code for a simple social media website built using **React Vite**. The website includes basic features such as user authentication, posting, and profile management. Below is an overview of the features and technologies used in this project.
 
 **Indonesian:**
