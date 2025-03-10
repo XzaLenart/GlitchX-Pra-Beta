@@ -25,6 +25,7 @@ Repositori ini berisi kode sumber untuk situs web media sosial sederhana yang di
 - **Friends System**: Ability to add and manage friends.
 - **Messaging**: Real-time chat functionality between users.
 These features are not yet implemented but may be added in the future. Feel free to contribute or expand on this project!
+
 **Indonesian:**
 - **Sistem Pertemanan**: Kemampuan untuk menambah dan mengelola teman.
 - **Pesan**: Fungsionalitas obrolan waktu nyata di antara para pengguna.
