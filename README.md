@@ -38,10 +38,10 @@ Fitur-fitur ini belum diimplementasikan, tetapi mungkin akan ditambahkan di masa
 
 ## Customization
 **Inglish:**
-You need to customize your firebase configuration in firebase.js according to your firebase API.
+You need to customize your firebase configuration in `firebase.js` according to your firebase API.
 
 **Indonesian:**
-Anda perlu menyesuaikan konfigurasi firebase Anda di firebase.js sesuai dengan API firebase Anda.
+Anda perlu menyesuaikan konfigurasi firebase Anda di `firebase.js` sesuai dengan API firebase Anda.
 
 ```javascript
 const firebaseConfig = {
